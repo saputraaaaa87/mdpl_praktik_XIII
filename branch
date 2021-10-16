@@ -1,3 +1,7 @@
 Apa itu branch
 -branch adalah cara yang sangat baik dalam mengerjakan aplikasi Anda sambil melacak tiap versinya.
  Secara umum, development branch adalah bifurkasi dari kondisi kode yang membuat alur baru bagi evolusinya
+cara menggunakan branch
+-Ingatlah untuk mengakses server Anda dengan SSH sebelum menggunakan Git branch! Silakan baca tutorial PuTTY kami untuk membantu Anda.
+-Penggunaan Git branch pada dasarnya mudah seperti yang bisa dilihat dari Git branch commands. Namun, semakin banyak branch yg Anda miliki, akan semakin sulit untuk dikelola.
+-Dalam proyek Git apapun, Anda bisa melihat semua branch dengan menulis command.
